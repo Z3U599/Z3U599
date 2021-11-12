@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Z3U599
 - 👀 I’m interested in Web Development and Blockchain Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Web Development
 - 📫 How to reach me alielyas778@gmail.com
 
 <!---
